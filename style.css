@@ -226,3 +226,12 @@
 .constraction_div{
   margin-top: 500px;
 }
+
+.input_for_time{
+  position: absolute;
+  top: 1100px;
+}
+.seconds{
+  position: absolute;
+  top: 1050px;
+}
