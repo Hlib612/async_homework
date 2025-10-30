@@ -1,0 +1,228 @@
+.masage-js {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lawngreen;
+  width: 120px;
+  height: 60px;
+  visibility: hidden;
+}
+
+.masage-js-text {
+  font-size: larger;
+  font-weight: 700;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.doe {
+  position: absolute;
+  z-index: 2;
+  width: 150px;
+  height: 350px;
+  background-color: orangered;
+}
+
+.doe2 {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  background-color: rgb(0, 72, 255);
+}
+
+.position1 {
+  top: 60px;
+  left: 8px;
+}
+
+.position2 {
+  top: 410px;
+  left: 8px;
+}
+
+.position3 {
+  top: 410px;
+  left: 100px;
+}
+
+.position4 {
+  top: 410px;
+  left: 200px;
+}
+
+.position5 {
+  top: 410px;
+  left: 300px;
+}
+
+.position6 {
+  top: 410px;
+  left: 400px;
+}
+
+.position7 {
+  top: 310px;
+  left: 400px;
+}
+
+.position8 {
+  top: 210px;
+  left: 400px;
+}
+
+.position9 {
+  top: 110px;
+  left: 400px;
+}
+
+.position10 {
+  top: 60px;
+  left: 400px;
+}
+
+.position11 {
+  top: 60px;
+  left: 200px;
+}
+
+.position12 {
+  top: 60px;
+  left: 100px;
+}
+
+.position13 {
+  top: 60px;
+  left: 8px;
+}
+.game_list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  position: relative;
+  top: 100px;
+  list-style: none;
+}
+.hole_1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: black;
+}
+.hole_2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: black;
+}
+.hole_3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: black;
+}
+.hole_4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: black;
+}
+.hole_5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: black;
+}
+.hole_6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: black;
+}
+
+.button_1{
+    background-color: rgb(253, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 10px grey solid;
+    display: none;
+    cursor: pointer;
+}
+
+.button_2{
+    background-color: rgb(253, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 10px grey solid;
+    display: none;
+    cursor: pointer;
+}
+.button_3{
+    background-color: rgb(253, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 10px grey solid;
+    display: none;
+    cursor: pointer;
+}
+.button_4{
+    background-color: rgb(253, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 10px grey solid;
+    display: none;
+    cursor: pointer;
+}
+.button_5{
+    background-color: rgb(253, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 10px grey solid;
+    display: none;
+    cursor: pointer;
+}
+.button_6{
+    background-color: rgb(253, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: 10px grey solid;
+    display: none;
+    cursor: pointer;
+}
+
+.start_button{
+  width: 45px;
+  height: 20px;
+  background-color: chartreuse;
+}
+
+.constraction_div{
+  margin-top: 500px;
+}
